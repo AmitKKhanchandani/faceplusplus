@@ -9,10 +9,10 @@
             "email": "amitsystem@live.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php":">=5.3"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Amitk\\": "src/"
@@ -20,5 +20,6 @@
     },
     "keywords": [
         "faceplusplus"
-    ]
+    ],
+    "prefer-stable": true
 }
