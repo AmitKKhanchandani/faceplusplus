@@ -1,0 +1,25 @@
+{
+    "name": "amitkkhanchandani/faceplusplus",
+    "description": "Face ++ Library for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amit K Khanchandani",
+            "email": "amitsystem@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Amitk\\": "src/"
+        }
+    },
+    "keywords": [
+        "face++",
+        "faceplusplus"
+    ]
+}
