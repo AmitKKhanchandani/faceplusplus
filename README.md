@@ -67,3 +67,10 @@ else{
 ```
 
 [More APIS Details on Face++ Doc Center](https://console.faceplusplus.com/documents/5679127)
+
+
+### Copyright and License
+
+Copyright (c) 2018, Amit K Khanchandani and Contributors. All Rights Reserved.
+
+This project is licenced under the [MIT License](LICENSE.txt).
